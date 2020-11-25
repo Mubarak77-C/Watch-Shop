@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mubarak77-C.github.io/Watch-Shop/static/css/main.d52425b0.chunk.css",
+    "main.js": "/Mubarak77-C.github.io/Watch-Shop/static/js/main.3289f448.chunk.js",
+    "main.js.map": "/Mubarak77-C.github.io/Watch-Shop/static/js/main.3289f448.chunk.js.map",
+    "runtime-main.js": "/Mubarak77-C.github.io/Watch-Shop/static/js/runtime-main.b61e64c9.js",
+    "runtime-main.js.map": "/Mubarak77-C.github.io/Watch-Shop/static/js/runtime-main.b61e64c9.js.map",
+    "static/js/2.29377acb.chunk.js": "/Mubarak77-C.github.io/Watch-Shop/static/js/2.29377acb.chunk.js",
+    "static/js/2.29377acb.chunk.js.map": "/Mubarak77-C.github.io/Watch-Shop/static/js/2.29377acb.chunk.js.map",
+    "index.html": "/Mubarak77-C.github.io/Watch-Shop/index.html",
+    "static/css/main.d52425b0.chunk.css.map": "/Mubarak77-C.github.io/Watch-Shop/static/css/main.d52425b0.chunk.css.map",
+    "static/js/2.29377acb.chunk.js.LICENSE.txt": "/Mubarak77-C.github.io/Watch-Shop/static/js/2.29377acb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b61e64c9.js",
+    "static/js/2.29377acb.chunk.js",
+    "static/css/main.d52425b0.chunk.css",
+    "static/js/main.3289f448.chunk.js"
+  ]
+}
